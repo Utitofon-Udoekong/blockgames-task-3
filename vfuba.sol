@@ -11,7 +11,8 @@ contract VuzaPrime is ERC20 {
         _mint(msg.sender, initialSupply);
     }
     
-    function buyToken(address receiver,uint amount) public payable {
+    function buyToken(address receiver) public payable {
+        uint256 amount = msg.value;
         uint256 tokenAmount = amount * 1000;
         _mint(receiver, tokenAmount);
         initialSupply += tokenAmount;

@@ -133,11 +133,6 @@
 						"internalType": "address",
 						"name": "receiver",
 						"type": "address"
-					},
-					{
-						"internalType": "uint256",
-						"name": "amount",
-						"type": "uint256"
 					}
 				],
 				"name": "buyToken",
@@ -406,11 +401,11 @@
 			]
 		},
 		"vfuba.sol": {
-			"keccak256": "0xa084e098c137532dd687fe09ee9550f01e12f6f39b13fa836ccac5a1b2aeb4c2",
+			"keccak256": "0x3204bc1d2a311f5a35eff5cba894220211e74b018e9fdd857acd3cc90d7e886f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://f7e50c6974541d171722a6df7ef2df3d28adad60142e900202559af01f1ef029",
-				"dweb:/ipfs/QmY35SbY8jfLqwSGFv5paKEGyrx5sQqXE1h4eP8jfs8ChX"
+				"bzz-raw://34b29dd234e552a1d7f10ef3a7d324b447f545c563211084c1f6b702f996f7c6",
+				"dweb:/ipfs/QmczWeUSJCH1J12tXYmZDwhRBKqNLZP2eUCtZvyYNVW5Dt"
 			]
 		}
 	},

@@ -15,7 +15,6 @@ contract VuzaPrime is ERC20 {
         uint256 amount = msg.value;
         uint256 tokenAmount = amount * 1000;
         _mint(receiver, tokenAmount);
-        initialSupply += tokenAmount;
     }
 }
 

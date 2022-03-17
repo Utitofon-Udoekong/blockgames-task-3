@@ -401,11 +401,11 @@
 			]
 		},
 		"vfuba.sol": {
-			"keccak256": "0x3204bc1d2a311f5a35eff5cba894220211e74b018e9fdd857acd3cc90d7e886f",
+			"keccak256": "0x2744ec2bb732779f2a993054944375f74cca20eba57a8bcf20a4792e93297027",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://34b29dd234e552a1d7f10ef3a7d324b447f545c563211084c1f6b702f996f7c6",
-				"dweb:/ipfs/QmczWeUSJCH1J12tXYmZDwhRBKqNLZP2eUCtZvyYNVW5Dt"
+				"bzz-raw://eb6bbb80300f2881d14aee58a6c9258bd078f96c7be86b2cf8a4600e9df83fcd",
+				"dweb:/ipfs/QmW8wHG3thmnbkDYHZCCHrDARND4xGiTsWKjLxphk6BGsd"
 			]
 		}
 	},
